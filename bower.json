@@ -1,0 +1,39 @@
+{
+  "name": "backbone.factory",
+  "version": "1.0.0",
+  "homepage": "https://github.com/backbonex/factory",
+  "authors": [
+    "jifeon <balakirev.andrey@gmail.com>",
+    "apsavin <box.for.postman@gmail.com>",
+    "km256 <keyman256@gmail.com>",
+    "heymexa <heymexa@gmail.com>"
+  ],
+  "description": "Factory pattern implementation for backbone views",
+  "main": "lib/Factory",
+  "keywords": [
+    "backbone",
+    "factory",
+    "views",
+    "selectors",
+    "initialization"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "tests"
+  ],
+  "dependencies": {
+    "backbone": "~1.1.2",
+    "jquery": "~2.1.1",
+    "backbone-super": "~1.0.4",
+    "backbone.view.elements": "~1.0.1"
+  },
+  "devDependencies": {
+    "mocha": "~2.0.1",
+    "requirejs": "~2.1.15",
+    "expect": "~0.3.1",
+    "mocha-oop-wrapper": "~1.0.0"
+  }
+}
