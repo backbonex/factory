@@ -1,6 +1,6 @@
 {
   "name": "backbone.factory",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Factory pattern implementation for backbone views",
   "main": "lib/Factory",
   "directories": {
